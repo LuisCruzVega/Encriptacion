@@ -39,7 +39,7 @@ string convertir(int n){
 	}
 	return nombre;
 	}
-	else{
+	else if (n<30){
 	switch(u){
 	case 1: unidad="uno"; break;
 	case 2: unidad="dos"; break;
