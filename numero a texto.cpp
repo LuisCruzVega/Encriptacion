@@ -40,7 +40,7 @@ string convertir(int n){
 	return nombre;
 	}
 	else if (n<30){
-	switch(u){
+	switch(u){asdfasdfasdf
 	case 1: unidad="uno"; break;
 	case 2: unidad="dos"; break;
 	case 3: unidad="tres"; break;
